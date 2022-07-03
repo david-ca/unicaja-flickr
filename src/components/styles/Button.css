@@ -1,0 +1,11 @@
+.button-wrapper {
+    margin: 1rem;
+    color: white;
+    background-color: rgb(11, 11, 81);
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    border-radius: 4px;
+    cursor: pointer;
+}

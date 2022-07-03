@@ -1,0 +1,38 @@
+.searchinput-wrapper {
+    display: flex;    
+    height: 3rem;
+    width: 24rem;
+    border-radius: 5px;
+}
+
+.searchinput-form {
+    height: 100%;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.searchinput-input {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    padding-left: 10px;
+}
+
+.searchinput-btn {
+    background-color: rgb(185, 185, 232);
+    height: 100%;
+    width: 25%;
+    cursor: pointer;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.searchinput-logo {
+    height: 80%;
+}
